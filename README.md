@@ -75,4 +75,3 @@ For this project:
 
 ---
 
-## 📂 Repository Structure
